@@ -1,5 +1,6 @@
 .all {
-    background-image: url("https://www.fosterforward.net/wp-content/uploads/718653_subtle-backgrounds-on-pinterest_1800x1200_h.jpg");
+    background-image: url("../images/starry.jpg");
+    height: 100%;
 }
 
 .content-area {
